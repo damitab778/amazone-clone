@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/amazone-clone/static/css/main.abfc3a66.chunk.css",
+    "main.js": "/amazone-clone/static/js/main.b475c204.chunk.js",
+    "main.js.map": "/amazone-clone/static/js/main.b475c204.chunk.js.map",
+    "runtime-main.js": "/amazone-clone/static/js/runtime-main.f19b19ff.js",
+    "runtime-main.js.map": "/amazone-clone/static/js/runtime-main.f19b19ff.js.map",
+    "static/js/2.1410b475.chunk.js": "/amazone-clone/static/js/2.1410b475.chunk.js",
+    "static/js/2.1410b475.chunk.js.map": "/amazone-clone/static/js/2.1410b475.chunk.js.map",
+    "index.html": "/amazone-clone/index.html",
+    "precache-manifest.3b7c9635334af71cbee90190e80775a8.js": "/amazone-clone/precache-manifest.3b7c9635334af71cbee90190e80775a8.js",
+    "service-worker.js": "/amazone-clone/service-worker.js",
+    "static/css/main.abfc3a66.chunk.css.map": "/amazone-clone/static/css/main.abfc3a66.chunk.css.map",
+    "static/js/2.1410b475.chunk.js.LICENSE.txt": "/amazone-clone/static/js/2.1410b475.chunk.js.LICENSE.txt",
+    "static/media/alien.jpg": "/amazone-clone/static/media/alien.278b5210.jpg",
+    "static/media/dw.jpg": "/amazone-clone/static/media/dw.187102fa.jpg",
+    "static/media/harry.jpg": "/amazone-clone/static/media/harry.9493be7e.jpg",
+    "static/media/home-gym.jpg": "/amazone-clone/static/media/home-gym.58edb95c.jpg",
+    "static/media/hp.jpg": "/amazone-clone/static/media/hp.c78c1d24.jpg",
+    "static/media/ip12.jpg": "/amazone-clone/static/media/ip12.2c39abc5.jpg",
+    "static/media/tv.png": "/amazone-clone/static/media/tv.3411fdd1.png",
+    "static/media/visaAdd.jpg": "/amazone-clone/static/media/visaAdd.9552b1d4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f19b19ff.js",
+    "static/js/2.1410b475.chunk.js",
+    "static/css/main.abfc3a66.chunk.css",
+    "static/js/main.b475c204.chunk.js"
+  ]
+}
