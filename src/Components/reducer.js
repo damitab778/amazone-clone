@@ -4,8 +4,6 @@ export const initialState = {
 };
 //State aktualne dane, action akcja
 const reducer = (state, action) => {
-  console.log("akcja", action);
-  console.log("stejt", state);
   switch (action.type) {
     case "ADD_TO_BASKET":
       return {

@@ -14,11 +14,7 @@ function Checkout() {
         <img src={visaAdd} alt="" className="checkout__ad" />
         <div>
           <h2 className="checkout__title">Your shopping Basket</h2>
-          <FlipMove
-            enterAnimation="fade"
-            leaveAnimation="accordionHorizontal"
-            duration={2000}
-          >
+          <FlipMove leaveAnimation="fade" duration={500}>
             {basket.map((item) => (
               <CheckoutProduct
                 id={item.id}
